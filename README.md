@@ -1,5 +1,5 @@
 # 💫 About Me:
-.
+Aspiring Software Engineer | Full-Stack Development Enthusiast | Problem Solver
 
 
 ## 🌐 Socials:
